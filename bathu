@@ -1,3 +1,14 @@
-this is my first class for devops
-whatever is my practice session
+first yum install git -y
+second git version
+third mkdir git 
+fourth cd git
+fifth git init
+sixth vi bathu
+seventh esc+:wq
+eighth git status
+ninth git add
+tenth git commit -m "sample1"
+11 git log
+12 git config --global user.name"bathmaraj" & git config user.email"bathmarajrandybj@gmail.com
+13 
 
